@@ -26,4 +26,4 @@ if(firstArray.length === secondArray.length) {
 }
 }
 
-compArray(arr1, arr2)
+compArray(arr1, arr3)
